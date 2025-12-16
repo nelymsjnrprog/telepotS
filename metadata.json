@@ -1,0 +1,7 @@
+{
+  "name": "TELEPOT",
+  "description": "A high-performance, cyber-themed AI interface. Powered by an Omni-Model Fusion Architecture (Gemini + Grok + GPT Logic) for unrestricted, high-intelligence interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
